@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/forneiro/blog-preview-card-main?tab=readme-ov-file)
+- Live Site URL: [Add live site URL here](https://foblogpreviewcard.netlify.app)
 
 ### Built with
 
